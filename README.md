@@ -44,7 +44,7 @@ You can now manage both backend and frontend from the project root:
 ```bash
 # from Eventora root
 npm install
-npm run install:all
+npm run dev:all
 npm run dev
 ```
 
